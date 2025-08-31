@@ -9,7 +9,9 @@ function App() {
     <>
       <Navbar/>
       <main>
-        <Home/>
+        <div className='container my-5'>
+          <Home/>
+        </div>
       </main>
       <Footer/>
     </>
