@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <>
     <Header/>
-    <div className="container my-5 d-flex gap-4 justify-content-center flex-wrap">
+    <div className="container-fluid my-5 d-flex gap-4 justify-content-center flex-wrap">
         <CardPizza
             name="Napolitana"
             price={5950}

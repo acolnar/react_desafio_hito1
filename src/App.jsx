@@ -8,11 +8,7 @@ function App() {
   return (
     <>
       <Navbar/>
-      <main>
-        <div className='container my-5'>
-          <Home/>
-        </div>
-      </main>
+      <Home/>
       <Footer/>
     </>
   )

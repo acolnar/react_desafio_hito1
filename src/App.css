@@ -50,9 +50,13 @@ main{
 }
 
 body{
-  padding-top: 150px;
+  padding-top: 50px;
 }
 
 footer{
   margin-top: 0;
+}
+
+html, body, #root{
+  width: 100%;
 }
